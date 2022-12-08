@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
- * main -main block
- *
- * Description: 'puts demonstration'
+ * main - main block
  *
  *return: 0
  */
