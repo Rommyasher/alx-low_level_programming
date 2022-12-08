@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * main - main block
+ * main - puts demonstrations
  *
- *Return: 0
+ *return: 0
  */
 int main(void)
 {
