@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - puts demonstrations
  *
  *return: 0
